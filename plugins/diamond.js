@@ -18,7 +18,7 @@ Chat Nomor Admin 👇
 Wa.me/6288220924312
 
 *_Join Group kami untuk melakukan pembelian_*
-https://chat.whatsapp.com/HPFwkIhRkzGFHmZ9rDVQ3U
+https://chat.whatsapp.com/LmqmgVjvHcrBQi5iAMt3Br
 `
 conn.sendMessage(m.chat, {
         image: await(await fetch(thumb)).buffer(),
