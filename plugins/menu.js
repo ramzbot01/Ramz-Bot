@@ -162,7 +162,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
         caption: text.trim(),
         buttons: [
           {buttonId: `.info`, buttonText: {displayText: '❕INFO'}, type: "RESPONSE"},
-          {buttonId: `.diamond`, buttonText: {displayText: 'DIAMOND💎'}, type: "RESPONSE"}
+          {buttonId: `.diamond`, buttonText: {displayText: 'JADI BOT🔑'}, type: "RESPONSE"}
         ],
         headerType: 'IMAGE'
    }, {quoted: m, ephemeralExpiration:86400})
