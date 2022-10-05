@@ -1,9 +1,7 @@
 let fs = require('fs')
 let handler = async (m, { conn }) => {
 let ArdXNasBot = `*─ 「 INFO - BOT - OWNER 」 ─*
-▢ *IG NASIR*: @logasland
-▢ *IG ARDI*: @ardhixs_
-▢ *IG GUSNADI*: @fidalinox
+▢ *IG Adit*: @Dityabotz
 
 • *SEWA BOT HUB*: 
 • wa.me/6281316235253 (Adit)
