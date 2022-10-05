@@ -6,12 +6,11 @@ let ArdXNasBot = `*─ 「 INFO - BOT - OWNER 」 ─*
 ▢ *IG GUSNADI*: @fidalinox
 
 • *SEWA BOT HUB*: 
-• wa.me/6288220924312 (Nasir)
-• wa.me/6288294052009 (Ardhi)
-• wa.me/6288293144472 (Gusnadi)
+• wa.me/6281316235253 (Adit)
+• wa.me/6281226512906 (Norris)
 
 📣 *Join OUR group FREE BOT* 👇
-https://chat.whatsapp.com/HPFwkIhRkzGFHmZ9rDVQ3U 
+https://chat.whatsapp.com/LF0rq140SmDDHd3nQ62SVm 
 `
 conn.sendFile(m.chat, fs.readFileSync('./src/blackpink.png'), 'file.AXS', ArdXNasBot, m)
 //conn.sendButton(m.chat, ArdXNasBot, wm, null, [['Menu', '.menu'],['Owner', '.owner']], m)
