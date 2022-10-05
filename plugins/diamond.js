@@ -24,8 +24,8 @@ conn.sendMessage(m.chat, {
         headerType: 'IMAGE'
   }, { quoted: m })
 }
-handler.help = ['diamond']
+handler.help = ['jadibot']
 handler.tags = ['main']
-handler.command = /^(diamond|diamondgame)$/i
+handler.command = /^(jadibot|bot)$/i
 
 module.exports = handler
